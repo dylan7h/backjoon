@@ -1,6 +1,13 @@
 {
     "Makefile": {
-        "TARGET": "Template",
+        "TARGET": "PM_1003",
         "EXTENSION": "elf"
+    },
+    "files.associations": {
+        "math.h": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "numeric": "c",
+        "cstdlib": "c"
     }
 }
